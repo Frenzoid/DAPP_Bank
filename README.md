@@ -1,5 +1,5 @@
 # Decentralized Bank.
-A decentralized bank with interests and loans with DEFI Blockchain, Ethereum, Solidity, IRC20 interfaces, truffle, ganache, Web3.js, and React.js
+A decentralized bank with interests and loans with DEFI Blockchain, Ethereum, Solidity, ERC20, truffle, ganache, Web3.js, and React.js
 
 Meant to learn blockchain technologies.
 
